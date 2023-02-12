@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HighroadEngine/Common/Scenes/StartScreen.unity
+    guid: 62c2eb6610c834b859041f4b679201a7
+  - enabled: 1
+    path: Assets/HighroadEngine/Demos/TinyCars/Scenes/TinyCarsLocalLobby.unity
+    guid: 82fcc9c69131d4cdeab2e394729e9fa3
+  - enabled: 1
+    path: Assets/HighroadEngine/Demos/TinyCars/Scenes/TheBean.unity
+    guid: f8cd55cf79b767c4fa90bf5e71a38e18
+  - enabled: 1
+    path: Assets/HighroadEngine/Demos/TinyCars/Scenes/TheBridge.unity
+    guid: ec8793f7f955d804eabe73ee0434188c
+  - enabled: 1
+    path: Assets/HighroadEngine/Demos/Solid/Scenes/Playground.unity
+    guid: 690323f6405fe42d9b45e0362b07734c
+  - enabled: 1
+    path: Assets/HighroadEngine/Demos/Aphex/Scenes/AphexLocalLobby.unity
+    guid: 2c99060c37689480da7cf4a36c62c242
+  - enabled: 1
+    path: Assets/HighroadEngine/Demos/Aphex/Scenes/Aphex.unity
+    guid: f5844405e140e6b438159f93f80babcb
+  - enabled: 1
+    path: Assets/HighroadEngine/Demos/Aphex/Scenes/Oval.unity
+    guid: 5e1145c92dfbb4092a1091a7628b483b
+  - enabled: 1
+    path: Assets/HighroadEngine/Demos/Aphex/Scenes/AphexOnlineLobby.unity
+    guid: e7e6814db7dad458d9cc49ef545d055a
+  - enabled: 1
+    path: Assets/HighroadEngine/Common/Scenes/LoadingScreen.unity
+    guid: d75193dc47fc1489b852db79199b6a81
+  - enabled: 1
+    path: Assets/HighroadEngine/Demos/TinyCars/Scenes/TinyCarsOnlineLobby.unity
+    guid: 7a415056813e64d1686db61fd683a36b
+  - enabled: 1
+    path: Assets/HighroadEngine/Demos/Solid/Scenes/MonacoTrack.unity
+    guid: 727e30e5d151d4b4890e073c5620db62
+  m_configObjects: {}

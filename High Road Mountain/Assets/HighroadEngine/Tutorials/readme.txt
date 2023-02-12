@@ -1,0 +1,1 @@
+This folder contains assets used in the HighRoad Engine documentation available at https://highroad-engine-docs.moremountains.com/ .

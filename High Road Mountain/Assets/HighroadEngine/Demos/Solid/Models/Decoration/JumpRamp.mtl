@@ -1,0 +1,14 @@
+# Made using Asset Forge (www.assetforge.io) version 1.2.1 
+
+newmtl darkStone (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 1 0.6499176 0 
+Ks 0.330000 0.330000 0.330000 
+map_Kd Textures/darkStone (Instance).png
+
+newmtl glass (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.07002136 0.07002136 0.07002136 
+Ks 0.330000 0.330000 0.330000 
+map_Kd Textures/glass (Instance).png
+
