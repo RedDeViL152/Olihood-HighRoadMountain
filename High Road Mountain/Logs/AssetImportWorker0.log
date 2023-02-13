@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2021.3.17f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/Unity/Olihood/High Road Mountain
+C:/Users/aungp/Documents/GitHub/Olihood-HighRoadMountain/High Road Mountain
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51917
-Successfully changed project path to: D:/Unity/Olihood/High Road Mountain
-D:/Unity/Olihood/High Road Mountain
+58817
+Successfully changed project path to: C:/Users/aungp/Documents/GitHub/Olihood-HighRoadMountain/High Road Mountain
+C:/Users/aungp/Documents/GitHub/Olihood-HighRoadMountain/High Road Mountain
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,15 +47,15 @@ D:/Unity/Olihood/High Road Mountain
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [11096] Host "[IP] 192.168.99.25 [Port] 0 [Flags] 2 [Guid] 461145343 [EditorId] 461145343 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-5062CVD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [8976] Host "[IP] 192.168.99.25 [Port] 0 [Flags] 2 [Guid] 1054181047 [EditorId] 1054181047 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-5062CVD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [11096] Host "[IP] 192.168.99.25 [Port] 0 [Flags] 2 [Guid] 461145343 [EditorId] 461145343 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-5062CVD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [8976] Host "[IP] 192.168.99.25 [Port] 0 [Flags] 2 [Guid] 1054181047 [EditorId] 1054181047 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-5062CVD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 150.47 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 134.96 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.17f1 (3e8111cac19d)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.17f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Unity/Olihood/High Road Mountain/Assets
+[Subsystems] Discovering subsystems at path C:/Users/aungp/Documents/GitHub/Olihood-HighRoadMountain/High Road Mountain/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
@@ -68,102 +68,102 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.17f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.17f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56144
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56296
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.17f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.17f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.17f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.014798 seconds.
+Registered in 0.016927 seconds.
 Native extension for WindowsStandalone target not found
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 406 ms
+Android Extension - Scanning For ADB Devices 495 ms
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 139.91 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 206.08 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.443 seconds
+- Completed reload, in  1.676 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1444ms)
-		BeginReloadAssembly (113ms)
+	ReloadAssembly (1678ms)
+		BeginReloadAssembly (96ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (3ms)
-		EndReloadAssembly (1148ms)
-			LoadAssemblies (107ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (1424ms)
+			LoadAssemblies (95ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (181ms)
+			SetupTypeCache (155ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (46ms)
-			SetupLoadedEditorAssemblies (848ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (1133ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (521ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (140ms)
+				InitializePlatformSupportModulesInManaged (654ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (206ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (121ms)
-				ProcessInitializeOnLoadMethodAttributes (63ms)
+				ProcessInitializeOnLoadAttributes (183ms)
+				ProcessInitializeOnLoadMethodAttributes (85ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.007861 seconds.
+Registered in 0.013022 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity\Olihood\High Road Mountain\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Unity\Olihood\High Road Mountain\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\aungp\Documents\GitHub\Olihood-HighRoadMountain\High Road Mountain\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\aungp\Documents\GitHub\Olihood-HighRoadMountain\High Road Mountain\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for iOS target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.864 seconds
+- Completed reload, in  2.186 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1864ms)
-		BeginReloadAssembly (164ms)
+	ReloadAssembly (2187ms)
+		BeginReloadAssembly (226ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (9ms)
+			DisableScriptedObjects (11ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (28ms)
-		EndReloadAssembly (1560ms)
-			LoadAssemblies (122ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (1738ms)
+			LoadAssemblies (172ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (466ms)
+			SetupTypeCache (654ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (89ms)
-			SetupLoadedEditorAssemblies (824ms)
+			RebuildScriptCaches (79ms)
+			SetupLoadedEditorAssemblies (807ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (52ms)
-				SetLoadedEditorAssemblies (0ms)
+				InitializePlatformSupportModulesInManaged (49ms)
+				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (131ms)
-				ProcessInitializeOnLoadAttributes (592ms)
-				ProcessInitializeOnLoadMethodAttributes (34ms)
-				AfterProcessingInitializeOnLoad (13ms)
+				BeforeProcessingInitializeOnLoad (133ms)
+				ProcessInitializeOnLoadAttributes (577ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
+				AfterProcessingInitializeOnLoad (12ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3973 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 39 unused Assets / (1.3 MB). Loaded Objects now: 4424.
-Memory consumption went from 219.1 MB to 217.7 MB.
-Total: 8.794400 ms (FindLiveObjects: 0.466900 ms CreateObjectMapping: 0.394800 ms MarkObjects: 7.491300 ms  DeleteObjects: 0.439800 ms)
+Unloading 39 unused Assets / (1.3 MB). Loaded Objects now: 4425.
+Memory consumption went from 220.2 MB to 218.9 MB.
+Total: 4.812800 ms (FindLiveObjects: 0.401300 ms CreateObjectMapping: 0.513400 ms MarkObjects: 3.585700 ms  DeleteObjects: 0.310700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -177,511 +177,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 3074.396667 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs
-  artifactKey: Guid(b9830eb85445c46db86c3099740c2ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs using Guid(b9830eb85445c46db86c3099740c2ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b595295989ded9de939dc329a1cb11') in 0.019281 seconds 
+  Time since last request: 704.837978 seconds.
+  path: Assets/HighroadEngine/Demos/TinyCars/Scripts
+  artifactKey: Guid(909bcd8d1d8fee1459edefbc894f952d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HighroadEngine/Demos/TinyCars/Scripts using Guid(909bcd8d1d8fee1459edefbc894f952d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6fa2bc329a47c08e1d5543a5ac6fd73') in 0.015831 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/PunWaterMark.prefab
-  artifactKey: Guid(e91211a5fed0a41faa964218272567af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/PunWaterMark.prefab using Guid(e91211a5fed0a41faa964218272567af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e0d605c128c9fdcfe091cfe2a66955') in 0.104737 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007234 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity\Olihood\High Road Mountain\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Unity\Olihood\High Road Mountain\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 4.98 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  4.587 seconds
-Domain Reload Profiling:
-	ReloadAssembly (4589ms)
-		BeginReloadAssembly (244ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (9ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (65ms)
-		EndReloadAssembly (4134ms)
-			LoadAssemblies (157ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1220ms)
-			ReleaseScriptCaches (8ms)
-			RebuildScriptCaches (186ms)
-			SetupLoadedEditorAssemblies (2320ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (155ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (5ms)
-				BeforeProcessingInitializeOnLoad (284ms)
-				ProcessInitializeOnLoadAttributes (1802ms)
-				ProcessInitializeOnLoadMethodAttributes (54ms)
-				AfterProcessingInitializeOnLoad (19ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (15ms)
-Platform modules already initialized, skipping
-Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
-Refreshing native plugins compatible for Editor in 4.44 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3926 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 32 unused Assets / (1.3 MB). Loaded Objects now: 4428.
-Memory consumption went from 214.2 MB to 212.9 MB.
-Total: 7.645900 ms (FindLiveObjects: 0.562000 ms CreateObjectMapping: 0.778900 ms MarkObjects: 5.911300 ms  DeleteObjects: 0.392300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 171.469822 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Scripts/AirCarBehaviour.cs
-  artifactKey: Guid(36ab163b7717049a2a86fe2e75e70f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Scripts/AirCarBehaviour.cs using Guid(36ab163b7717049a2a86fe2e75e70f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f726e6a6e40cbe6a0f293246875e401e') in 0.067466 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 18.722121 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Scenes
-  artifactKey: Guid(b8da2550bd97741a3ae3b241533d47e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Scenes using Guid(b8da2550bd97741a3ae3b241533d47e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff056f9cc3143627d1527b485ecf8d6d') in 0.011033 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.949962 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Vehicles
-  artifactKey: Guid(312cb37c85f8344c78bc8217c82b5aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Vehicles using Guid(312cb37c85f8344c78bc8217c82b5aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a822190bb87efa5ab2a967e23f1953') in 0.020381 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.047868 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Vehicles/Skidmarks.prefab
-  artifactKey: Guid(c489f10c2def8432097ac980213da692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Vehicles/Skidmarks.prefab using Guid(c489f10c2def8432097ac980213da692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcd18d4ace8a77afd5bd2d069d5b2e0') in 0.042279 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.134828 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Managers
-  artifactKey: Guid(e4cbe24ef4046448ba979660c3157e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Managers using Guid(e4cbe24ef4046448ba979660c3157e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39738b68c90610901c8556ce6a0dad9f') in 0.016052 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.035538 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Managers/MinimalDemonstrator.prefab
-  artifactKey: Guid(8151af296eb65481388effd9f684d315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Managers/MinimalDemonstrator.prefab using Guid(8151af296eb65481388effd9f684d315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a371896e8dca850f65cded926e64a003') in 0.016525 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Managers/PunNetworkRaceManager.prefab
-  artifactKey: Guid(c05110d6caf5d46d892a1722c7724d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Managers/PunNetworkRaceManager.prefab using Guid(c05110d6caf5d46d892a1722c7724d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21fec4858a4f4ac09d24b592b82248ef') in 0.030810 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.173424 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Lobby
-  artifactKey: Guid(3614fa01cb39c47348fe77e00bfe0564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Lobby using Guid(3614fa01cb39c47348fe77e00bfe0564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d5e81499dc97b231db0f9ad09b43e87') in 0.015388 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.032229 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Lobby/LocalLobby.prefab
-  artifactKey: Guid(8dd5d793249974e66a50f5d8e9ad2b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Lobby/LocalLobby.prefab using Guid(8dd5d793249974e66a50f5d8e9ad2b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5cbeb33803ec400e91463dcd011ad78') in 0.031895 seconds 
+  Time since last request: 0.000026 seconds.
+  path: Assets/HighroadEngine/Demos/TinyCars/Scripts/CarController.cs
+  artifactKey: Guid(ca0259c976f98434da4c6b2a4bebcd54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HighroadEngine/Demos/TinyCars/Scripts/CarController.cs using Guid(ca0259c976f98434da4c6b2a4bebcd54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a5a2eff23cd35379c27fc2c677b0a71') in 0.042642 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000030 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Lobby/OnlineUI.prefab
-  artifactKey: Guid(895b4ffedff504e0cb5f9f4558c066c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Lobby/OnlineUI.prefab using Guid(895b4ffedff504e0cb5f9f4558c066c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126e452e31f3b52b0a26f3036515a98d') in 0.034409 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Lobby/OnlineJoinMatchButton.prefab
-  artifactKey: Guid(e01f06246be394e47b38f2b4edc1fb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Lobby/OnlineJoinMatchButton.prefab using Guid(e01f06246be394e47b38f2b4edc1fb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ae252d734ba0630e32babcd7aae0d5') in 0.018071 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.981765 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Cameras
-  artifactKey: Guid(fddd9eee58bea4f5f8317c13691548a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Cameras using Guid(fddd9eee58bea4f5f8317c13691548a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f19810fe6abcb2ddc7e58f0a1397302') in 0.016442 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.028128 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Cameras/FixedCamera.prefab
-  artifactKey: Guid(fe73f4e1ac18ede47bcccd430bc96f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Cameras/FixedCamera.prefab using Guid(fe73f4e1ac18ede47bcccd430bc96f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '579613c4f16082cd95ad1e780a32a6cc') in 0.012005 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Cameras/FollowCamera3DRig .prefab
-  artifactKey: Guid(d96e0f3ee33f64efe82f1eaaadcd6840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Cameras/FollowCamera3DRig .prefab using Guid(d96e0f3ee33f64efe82f1eaaadcd6840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eb29e8f812bbd1d49093a757d5e4a5d') in 0.120719 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Cameras/UICamera.prefab
-  artifactKey: Guid(6080e41a5e4764129ac33741958adb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Cameras/UICamera.prefab using Guid(6080e41a5e4764129ac33741958adb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a75e7b4924f43ee43f5f0a7c68b891e2') in 0.029488 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/HighroadEngine/Common/Prefabs/Cameras/FollowCameraRig.prefab
-  artifactKey: Guid(8bb8c0e45c2144145ab7771a2105e433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Common/Prefabs/Cameras/FollowCameraRig.prefab using Guid(8bb8c0e45c2144145ab7771a2105e433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7255006f86270b0d8a072abb7b5b2678') in 0.039368 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.165907 seconds.
-  path: Assets/HighroadEngine/Demos
-  artifactKey: Guid(1e811cc54a88649b48409cda7b139953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos using Guid(1e811cc54a88649b48409cda7b139953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b304b7b047f2fc6291fad611851bcd') in 0.019739 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.124656 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex
-  artifactKey: Guid(c1281d9796034cd44a2aa3c3ec564c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex using Guid(c1281d9796034cd44a2aa3c3ec564c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ebcc2f27982438e5adba33e4821fb8') in 0.017344 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.105692 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Prefabs
-  artifactKey: Guid(23c56214d10b0a24ea19a8bef3555c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Prefabs using Guid(23c56214d10b0a24ea19a8bef3555c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2063fb1fcda9ce816d8b66f924d21ddb') in 0.004891 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.767587 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Prefabs/Buildings
-  artifactKey: Guid(18d31daa358194d9dbcc7e88049ef49e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Prefabs/Buildings using Guid(18d31daa358194d9dbcc7e88049ef49e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b701b2b235fe342dd09ef3de21a329c') in 0.017085 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.032169 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Prefabs/Buildings/HRAphexBuilding1.prefab
-  artifactKey: Guid(659d5569dc17d47cc8123438e11bfd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Prefabs/Buildings/HRAphexBuilding1.prefab using Guid(659d5569dc17d47cc8123438e11bfd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ce3fc741dcb07bbbdfc00743c8b611') in 0.239089 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Prefabs/Buildings/HRAphexBuilding2.prefab
-  artifactKey: Guid(31c6d0d0d11b642f9974057684259e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Prefabs/Buildings/HRAphexBuilding2.prefab using Guid(31c6d0d0d11b642f9974057684259e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15088323cbf9ec2abc8865ab6e53e973') in 0.040247 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Prefabs/Buildings/HRAphexBuilding3.prefab
-  artifactKey: Guid(be2f9a1508eb64806806891c54454c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Prefabs/Buildings/HRAphexBuilding3.prefab using Guid(be2f9a1508eb64806806891c54454c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7c80d44476615d35f0995116e943ed') in 0.032559 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Prefabs/Buildings/HRAphexBuilding4.prefab
-  artifactKey: Guid(53656cea4a4954e8ab448988d41aedac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Prefabs/Buildings/HRAphexBuilding4.prefab using Guid(53656cea4a4954e8ab448988d41aedac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec0c13c4f401554e5de00dc76964356a') in 0.034220 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.962836 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Scripts
-  artifactKey: Guid(9abbe1d14c7c04c8e9f120232374deeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Scripts using Guid(9abbe1d14c7c04c8e9f120232374deeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6ad20ce5011b01abfd5da2ca4823bd') in 0.015278 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.411453 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Sprites
-  artifactKey: Guid(35a642e90c78db14fb4dfbad602321e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Sprites using Guid(35a642e90c78db14fb4dfbad602321e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb14633a91262c8cff799022c464cc5') in 0.015791 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.042585 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Sprites/AphexGUI.png
-  artifactKey: Guid(8d4b85e5434d8ee4aa331d0df2125e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Sprites/AphexGUI.png using Guid(8d4b85e5434d8ee4aa331d0df2125e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd92c34fd0e2f0de2170f9711338fdcc1') in 0.138588 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Sprites/WaveParticle.png
-  artifactKey: Guid(d79cdc2a9a01443d19ee90f2004b8afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Sprites/WaveParticle.png using Guid(d79cdc2a9a01443d19ee90f2004b8afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28fcfe26a45c08d787471ae9c621f96d') in 0.047054 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000055 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Sprites/Reactor.png
-  artifactKey: Guid(959a2bf19bccb144fa183cb3f1fbb7f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Sprites/Reactor.png using Guid(959a2bf19bccb144fa183cb3f1fbb7f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b923bb76b9c15a1fdd533cd1e9d40b7c') in 0.053817 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Sprites/AsphaltTexture.jpg
-  artifactKey: Guid(3b0a627bfe9d086439786886c2196762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Sprites/AsphaltTexture.jpg using Guid(3b0a627bfe9d086439786886c2196762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02e83fac485df705c2180e1ac6d4ed39') in 0.038995 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Sprites/Reactor2.png
-  artifactKey: Guid(39d18fcc29ea18e418b7f2af5197d414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Sprites/Reactor2.png using Guid(39d18fcc29ea18e418b7f2af5197d414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb73c304658d3a5c5dfc70980dba3e1f') in 0.052547 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Sprites/Borders.jpg
-  artifactKey: Guid(1a5e6393b3466a948b25caa15dbb3af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Sprites/Borders.jpg using Guid(1a5e6393b3466a948b25caa15dbb3af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c207c3123124884502a27c84a22e5c6') in 0.039682 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Sprites/SkyBox.jpg
-  artifactKey: Guid(9f90f315b23775444b9fd28847b3b9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Sprites/SkyBox.jpg using Guid(9f90f315b23775444b9fd28847b3b9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0f50a5b63d9ef97b87bc039f516c6b') in 0.035074 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Sprites/Booster.png
-  artifactKey: Guid(1e0247bed89e4534eafb02ffa93feae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Sprites/Booster.png using Guid(1e0247bed89e4534eafb02ffa93feae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6169d7a2db155f8b591b85febb4aff5a') in 0.117040 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Sprites/AphexLobbyBackground.jpg
-  artifactKey: Guid(28be854760fa5be43b4a44be554b306e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Sprites/AphexLobbyBackground.jpg using Guid(28be854760fa5be43b4a44be554b306e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cd2bdad92b92528436ee98a22b0d571') in 0.178077 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Sprites/WindParticle.png
-  artifactKey: Guid(3e3b3a59d7b4246c39b8c2b4d494910d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Sprites/WindParticle.png using Guid(3e3b3a59d7b4246c39b8c2b4d494910d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de1e2ba4aad21b4d0bef2fea651317d8') in 0.040983 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.452218 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials
-  artifactKey: Guid(613ccdbdd694fc240835ff2b92191544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials using Guid(613ccdbdd694fc240835ff2b92191544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ad3ee535775c7570bf14c9000919a0') in 0.021718 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.017190 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexBlue.mat
-  artifactKey: Guid(e59097b7d54c6ed49a066351f059858a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexBlue.mat using Guid(e59097b7d54c6ed49a066351f059858a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9439144930123215ee07c0b36bb0ef2f') in 0.045896 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexYellow.mat
-  artifactKey: Guid(f26b3b54844d3f84592dbb4b7ed4cc11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexYellow.mat using Guid(f26b3b54844d3f84592dbb4b7ed4cc11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b625589312a03453cc9bbdbc0a8c1e') in 0.033733 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexCarWhite.mat
-  artifactKey: Guid(52b19a285fd666046bb6857a3a56df1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexCarWhite.mat using Guid(52b19a285fd666046bb6857a3a56df1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa9b62e57e2ffc2275aadda9e9d6ecf') in 0.039608 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexOrange.mat
-  artifactKey: Guid(26ae4b958d8cf0a4c8d442c3b3f679b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexOrange.mat using Guid(26ae4b958d8cf0a4c8d442c3b3f679b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b79c4d044dbeef178a8ee19ccc6c17') in 0.031447 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexWindows.mat
-  artifactKey: Guid(2c2a2bf84b75c5540b8ba22850fd7720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexWindows.mat using Guid(2c2a2bf84b75c5540b8ba22850fd7720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269044cc8817a9649690ee1a32e0d817') in 0.029987 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexWaveParticle.mat
-  artifactKey: Guid(fdc06001434724e94bdbd2fe2dbbe727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexWaveParticle.mat using Guid(fdc06001434724e94bdbd2fe2dbbe727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e88674ca1068ae892fa98409f45d05d') in 0.038184 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexWheelTire.mat
-  artifactKey: Guid(7a91d18de78af514a852ba1b51c2dbc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexWheelTire.mat using Guid(7a91d18de78af514a852ba1b51c2dbc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e13e3edad0f76230510ae0b2ece231ad') in 0.036828 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexRoad.mat
-  artifactKey: Guid(0f85046f1d7ec8d45ad2a838cafc149c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexRoad.mat using Guid(0f85046f1d7ec8d45ad2a838cafc149c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbf21373671958e56f73d10ba3e3987e') in 0.167022 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexRoadBorders.mat
-  artifactKey: Guid(cb275c0066d928a47805950b371f5ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexRoadBorders.mat using Guid(cb275c0066d928a47805950b371f5ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9daae94d935220195fd79e85c0e59d2') in 0.027097 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexHeadlights.mat
-  artifactKey: Guid(674057168460e5c44b14e0efc58de2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexHeadlights.mat using Guid(674057168460e5c44b14e0efc58de2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '716d297e58753be4654cea6c4145c3d3') in 0.031904 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexSkybox.mat
-  artifactKey: Guid(a1fc92a043d8b354ca46ebe91302be91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexSkybox.mat using Guid(a1fc92a043d8b354ca46ebe91302be91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd9c694b66c170dd967fe35b3996d7e8') in 0.029848 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexBorders.mat
-  artifactKey: Guid(45b259989fb245e4aab84ca0151629f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexBorders.mat using Guid(45b259989fb245e4aab84ca0151629f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e165d7389e7c4872846e027338c2f652') in 0.034918 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexGreen.mat
-  artifactKey: Guid(a93f23002b484354eade8ca8e3cf802a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexGreen.mat using Guid(a93f23002b484354eade8ca8e3cf802a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93998e0558c237010c65020bf55ead15') in 0.030973 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000061 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexWindParticle.mat
-  artifactKey: Guid(7d24b593cd48940cfa59495ef20cec6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Materials/HRAphexWindParticle.mat using Guid(7d24b593cd48940cfa59495ef20cec6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aed3ecf5cfdd4f1b1d0a6770c66e061') in 0.028041 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.754647 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Models
-  artifactKey: Guid(675a3929d5e59f945a4c35b377b287c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Models using Guid(675a3929d5e59f945a4c35b377b287c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80fb1ad15ef18b16db1c35c2b2fd0e61') in 0.019445 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.239366 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Models/AphexBorders.obj
-  artifactKey: Guid(720936b71647bdc4cb0d1c6ad43baf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Models/AphexBorders.obj using Guid(720936b71647bdc4cb0d1c6ad43baf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c9b1059a5a6c389ed5868d2e1c9a417') in 0.081885 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Models/Debaser.obj
-  artifactKey: Guid(b6f67e8b75ec26a4da3445e72c411db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Models/Debaser.obj using Guid(b6f67e8b75ec26a4da3445e72c411db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485de76dcabb6e38ee36c02a2d72395d') in 0.080376 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Models/OvalRacetrack.obj
-  artifactKey: Guid(58409a14139534459a5b4d4b4e6f5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Models/OvalRacetrack.obj using Guid(58409a14139534459a5b4d4b4e6f5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b9d8bdf6ad4a5fe158e1c33dd8ac8f') in 0.043842 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Models/AphexRacetrack.obj
-  artifactKey: Guid(82decef6e7f7d4d0aa9eab17f659eb3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Models/AphexRacetrack.obj using Guid(82decef6e7f7d4d0aa9eab17f659eb3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcdd52964f3e5fffc8e9564020548d8') in 0.040587 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Models/OvalBorders.obj
-  artifactKey: Guid(1c192320825ff49d0b560946f0fbecd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Models/OvalBorders.obj using Guid(1c192320825ff49d0b560946f0fbecd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b025b1cf4f5a84c644df4e6ad9a59ff') in 0.043678 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Models/Spiral.obj
-  artifactKey: Guid(38cb4ea4f40a51049b169879df899f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Models/Spiral.obj using Guid(38cb4ea4f40a51049b169879df899f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '383685dfd3a4aaf6eb496365e2f9f356') in 0.043388 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Models/Capital.obj
-  artifactKey: Guid(949c98cbfe4d39948a535ede3cc500f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Models/Capital.obj using Guid(949c98cbfe4d39948a535ede3cc500f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b43cbe630d2eb33f5d487358f5c829') in 0.050374 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000097 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Models/AphexMajor.obj
-  artifactKey: Guid(b1dfc9acf54278848921c62cbf439f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Models/AphexMajor.obj using Guid(b1dfc9acf54278848921c62cbf439f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a13ac217923bdbfe1a1377afc91c934') in 0.039203 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Models/OvalInvisibleBorders.obj
-  artifactKey: Guid(b0ad1e3e317c543bf86efd1ab931a84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Models/OvalInvisibleBorders.obj using Guid(b0ad1e3e317c543bf86efd1ab931a84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea2d571854d510f748664b82ec0de13') in 0.047145 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/HighroadEngine/Demos/Aphex/Models/AphexInvisibleBorders.obj
-  artifactKey: Guid(02deed3dbbc2a459faf74e1515cb94f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HighroadEngine/Demos/Aphex/Models/AphexInvisibleBorders.obj using Guid(02deed3dbbc2a459faf74e1515cb94f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae9025637b329d9871f087f6ee5ac6e4') in 0.049515 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1047.471621 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8193726cff86800c54781cdc6d54904') in 0.029634 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.032660 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity\Olihood\High Road Mountain\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Unity\Olihood\High Road Mountain\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.48 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in 22.434 seconds
-Domain Reload Profiling:
-	ReloadAssembly (22436ms)
-		BeginReloadAssembly (2207ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (83ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (4ms)
-			CreateAndSetChildDomain (590ms)
-		EndReloadAssembly (18706ms)
-			LoadAssemblies (1409ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (4488ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (1730ms)
-			SetupLoadedEditorAssemblies (9814ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (752ms)
-				SetLoadedEditorAssemblies (20ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (1362ms)
-				ProcessInitializeOnLoadAttributes (6936ms)
-				ProcessInitializeOnLoadMethodAttributes (653ms)
-				AfterProcessingInitializeOnLoad (87ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (108ms)
-Platform modules already initialized, skipping
-Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
-Refreshing native plugins compatible for Editor in 16.84 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3926 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 34 unused Assets / (1.3 MB). Loaded Objects now: 4486.
-Memory consumption went from 219.1 MB to 217.8 MB.
-Total: 45.858700 ms (FindLiveObjects: 5.688000 ms CreateObjectMapping: 3.087400 ms MarkObjects: 25.108900 ms  DeleteObjects: 11.972700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  path: Assets/HighroadEngine/Demos/TinyCars/Scripts/CarBehaviour.cs
+  artifactKey: Guid(b339251aab3b26f4082935f37e4a2bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HighroadEngine/Demos/TinyCars/Scripts/CarBehaviour.cs using Guid(b339251aab3b26f4082935f37e4a2bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b589fafb0b03bac6961a038788d7cc5') in 0.011426 seconds 
